@@ -2676,7 +2676,7 @@ exports["default"] = _default;
 /***/ 273:
 /***/ ((module) => {
 
-module.exports = eval("require")("@actions/gihub");
+module.exports = eval("require")("@actions/github");
 
 
 /***/ }),
